@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IufRAh8jxOy5AF3BbKdzxaIjxwmlvfi5H+GYvsDMlbl7jsJBpGvAjfAOwsnvm10Df68m2ORw4+JK3JoerhKCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\Compressed\\Nml.Improve.Me\\Nml.Improve.Me\\Nml.Improve.Me.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
